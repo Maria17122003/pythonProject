@@ -1,4 +1,3 @@
-a = int(input())
-b = int(input())
-
-print(a+b)
+def addition(a, b):
+    c = a + b
+    return c
